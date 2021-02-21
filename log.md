@@ -7,16 +7,16 @@
 
 **Thoughts:** Just started this whole process and am using FreeCodeCamp's early lessons to get a footing of what I should be doing. I'm pretty new, and don't really understand a whole lot of what is going on. Will try and keep this up every single day, even I feel completely confused and lost. Yay to trying something new!
 
-**Link to work:** Don't have any real work yet... starting with exercises on (https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
+**Link to work:** Don't have any real work yet... starting with exercises on [FreeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
 
 ### Day 1: February 21, 2021
 <!-- // ##### (delete me or comment me out) -->
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started learning the basics of CSS on FreeCodeCamp. Finished the lesson and added some of the code to my Week-1-HTML file.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I've always wondered how CSS works and am blown away by how simple it is on a basic level. I'm guessing I haven't gotten far enough into it to really start learning the nuances, but it's exciting to learn things like margins and padding. Then also understanding the hierarchy of classes, IDs, and types. Just barely scratching the surface really. Stoked to see where this goes. 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [FreeCodeCamp CSS Tutorials](https://www.freecodecamp.org/learn/responsive-web-design/basic-css)
 
 
 ### Day 1: June 27, Monday
