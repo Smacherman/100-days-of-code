@@ -19,6 +19,16 @@
 **Link(s) to work**: [FreeCodeCamp CSS Tutorials](https://www.freecodecamp.org/learn/responsive-web-design/basic-css)
 
 
+<br><br><br>
+
+
+
+
+
+
+
+<strong><u>Template for Use Later</u></strong>
+
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
