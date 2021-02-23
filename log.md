@@ -9,6 +9,7 @@
 
 **Link to work:** Don't have any real work yet... starting with exercises on [FreeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
 
+
 ### Day 1: February 21, 2021
 <!-- // ##### (delete me or comment me out) -->
 
@@ -18,6 +19,15 @@
 
 **Link(s) to work**: [FreeCodeCamp CSS Tutorials](https://www.freecodecamp.org/learn/responsive-web-design/basic-css)
 
+
+### Day 2: February 22, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: More progress on CSS and how to combine colors as well as using opacity to create new shapes. Just touched on animation as well. So cool!! Finished up the Applied Visual Design section on FCC.
+
+**Thoughts**: CSS is continuing to impress me with how powerful it is, as well as how many uses there are for it. I used to think it just helped make text look a certain way, but now understand that it can be used for so many other things. From creating shapes to animation to create full scenes almost all online. Very cool! Lots more to still go, but very impressed all the way around. 
+
+**Link(s) to work**: [FreeCodeCamp CSS Applied Design Tutorials](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/)
 
 <br><br><br>
 
