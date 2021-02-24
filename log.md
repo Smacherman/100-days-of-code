@@ -29,6 +29,16 @@
 
 **Link(s) to work**: [FreeCodeCamp CSS Applied Design Tutorials](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/)
 
+
+### Day 3: February 23, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Working through the rules of HTML Accessibility and making sure the design of different elements can be read by Screen Readers & the colorblind. Didn’t realize how important this was! Gotta fill out those Alt tags every time!!
+
+**Thoughts**: While I've worked on developing websites for different events and ideas before, I never really took the time to notice how important it is to make sure the code is properly formatted for other reading devices. I've always just used WYSIWYG elements and when it looked write I called it done. Now I'm realizing there is so much more to all of the devices that crawl the web. I really need to focus more on filling out all of the elements so it's as readable as possible for a wide range of uses. 
+
+**Link(s) to work**: [FreeCodeCamp CSS Applied Accessibility Tutorials](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility)
+
 <br><br><br>
 
 
