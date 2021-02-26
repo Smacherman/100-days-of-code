@@ -48,7 +48,17 @@
 **Thoughts**: I've known that you can create small sections of content using the <div> fuction, but didn't realize you could then take those elements and super easily build rows or columns out of them! Super useful! I can see this being used a lot for building out formatting within apps and making sure certain types of text or buttons will end up being able to adjust to different screen sizes and DPI's. Need to dive into all of it more, and looking forward to tackling some of the projects coming up. Kinda nervous, but stoked to be learning all of this! 
 
 **Link(s) to work**: [FreeCodeCamp CSS Web Design Principles & Flexbox](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/)
-<br><br><br>
+
+
+### Day 5: February 25, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: CSS Grids!!! Learned how to build proper grid columns and rows, set up grid templates, and make grids in grids. This whole concept has been a bit harder to wrap my head around (probably should use minmax ;) ) but making progress. Slow but steady! Started on the projects at the end of the FreeCodeCamp Responsive Web Design course.
+
+**Thoughts**: Grids kick it all up a notch. Now there's a way to build out elements that will be responsice not only to screen size, but to each other in really controlled ways. I'm still fairly unclear on the way that the grid is counted vertically and horizontally, but at least understand how it can be build using the grid-template-areas property. Lots to still learn. Crashed my longboard today so typing is hard. Such is life... :S
+
+**Link(s) to work**: [FreeCodeCamp CSS Grid](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/)
+<br><br><br
 
 
 
