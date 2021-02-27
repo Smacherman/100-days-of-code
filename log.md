@@ -58,7 +58,18 @@
 **Thoughts**: Grids kick it all up a notch. Now there's a way to build out elements that will be responsice not only to screen size, but to each other in really controlled ways. I'm still fairly unclear on the way that the grid is counted vertically and horizontally, but at least understand how it can be build using the grid-template-areas property. Lots to still learn. Crashed my longboard today so typing is hard. Such is life... :S
 
 **Link(s) to work**: [FreeCodeCamp CSS Grid](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/)
-<br><br><br
+
+
+### Day 6: February 26, 2021
+
+**Today's Progress**: Worked the whole hour on FCC Projects starting with a Tribute page and then a Survey. Finally getting a solid grasp on input forms and the basic hierarchy of HTML. Projects sure do make you learn quick! Got the first two projects done, 3 more to go.
+
+**Thoughts** While the lessons are super helpful and have a lot of coding involved, they really don't quite teach you as well as jumping into a project and trying to get the code working by yourself. There's different reasons to spend time on both side of this challenge; learning the basic fundimentals and then putting them into action. I think I've starting to just get the bare beginning of coding worked out, and am excited about continuing down this path. It's a frustrating world in a lot of ways, but I'm stoked to be getting further into it. :)
+
+**Link(s) to work**
+1. [Responsive Web Design Principles: Project #1 - Tribute Page](https://codepen.io/Smacherman/pen/gOLvryx)
+2. [Responsive Web Design Principles: Project #2 - Survey Form](https://codepen.io/Smacherman/pen/ExNQGBR)
+<br><br><br>
 
 
 
