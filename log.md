@@ -45,7 +45,7 @@
 
 **Today's Progress**: Finished two FCC lessons! Learned how to use CSS format text to be responsive to screen size & width, then using flexbox to align elements in rows & columns corresponding to each other. Love how easily it builds balance! I can see this as being super powerful moving forward!
 
-**Thoughts**: I've known that you can create small sections of content using the <div> fuction, but didn't realize you could then take those elements and super easily build rows or columns out of them! Super useful! I can see this being used a lot for building out formatting within apps and making sure certain types of text or buttons will end up being able to adjust to different screen sizes and DPI's. Need to dive into all of it more, and looking forward to tackling some of the projects coming up. Kinda nervous, but stoked to be learning all of this! 
+**Thoughts**: I've known that you can create small sections of content using the div fuction, but didn't realize you could then take those elements and super easily build rows or columns out of them! Super useful! I can see this being used a lot for building out formatting within apps and making sure certain types of text or buttons will end up being able to adjust to different screen sizes and DPI's. Need to dive into all of it more, and looking forward to tackling some of the projects coming up. Kinda nervous, but stoked to be learning all of this! 
 
 **Link(s) to work**: [FreeCodeCamp CSS Web Design Principles & Flexbox](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/)
 
