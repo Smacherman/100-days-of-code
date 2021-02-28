@@ -69,6 +69,17 @@
 **Link(s) to work**
 1. [Responsive Web Design Principles: Project #1 - Tribute Page](https://codepen.io/Smacherman/pen/gOLvryx)
 2. [Responsive Web Design Principles: Project #2 - Survey Form](https://codepen.io/Smacherman/pen/ExNQGBR)
+
+
+### Day 7: February 27, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Another FCC project in the can! This time working on a Landing Page. Got it completed in about an hour and a half. It was a struggle, but got it done!
+
+**Thoughts**: Struggling a bit with remembering all of the options for different ways to format content on a page. Kinda feeling like I constantly have to Google everything I try to do. This is normal? Hoping that I can start remembering keywords again, either that or I need to go back through the HTML & CSS lessons again to remember how to do everything. That's a bit discouraging, but probabaly worth the time. Idk... 
+
+**Link(s) to work**: [Responsive Web Design: Project #3 - Product Landing Page](https://codepen.io/Smacherman/pen/oNYqzpd)
+
 <br><br><br>
 
 
