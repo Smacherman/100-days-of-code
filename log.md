@@ -80,6 +80,16 @@
 
 **Link(s) to work**: [Responsive Web Design: Project #3 - Product Landing Page](https://codepen.io/Smacherman/pen/oNYqzpd)
 
+
+### Day 8: February 28, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Worked on creating a Technical Guide webpage for the FCC project today. Trying to use CSS-organized lists to make sure everything is clean & orderly. Also linking inside pages. That hour went fast! Looking forward to wrapping up the project tomorrow.
+
+**Thoughts**: I had to go back so some of the original FreeCodeCamp tutorials to understand what I was missing from earlier. That REALLY helped! I think it might be a good idea to plan that I'll need to go through all of these tutorials more than once to make sure all of the concepts actually get cemented into my head. I was really really lost, but after getting the refresher I totally understand what each of the commands are for SO MUCH BETTER! Will keep this in mind when I'm confused about different things in the future. Lots still ahead! 
+
+**Link(s) to work**: Nothing completed today, will post final link tomorrow. 
+
 <br><br><br>
 
 
