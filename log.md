@@ -100,6 +100,16 @@
 
 **Link(s) to work**: [Responsive Web Design: Project #4 - Technical Documentatino Page](https://codepen.io/Smacherman/pen/VwmXBoM)
 
+
+### Day 10: March 2, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Took a break from the FCC challenges to take a deeper dive into CSS Grids on Scrimba . Really loved being able to play around with the code while learning. Can tell Grids are gonna be super useful moving forward.
+
+**Thoughts**: Two steps forward, then one step back. I definitely needed to take that step back today, and get my mind wrapped around CSS Grids better. I can tell they are going to be super important moving forward in learning how to build apps that works on different devices and form-factors. Also really love how Scrimba works! Might think about gettting a subscription to them, as they're explainations of everything are super useful and easy to understand. Glad to be getting the basics better. Super positive day today! :)
+
+**Link(s) to work**: Learning today >> https://scrimba.com/learn/cssgrid/. 
+
 <br><br><br>
 
 
