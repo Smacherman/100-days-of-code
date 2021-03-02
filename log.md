@@ -90,6 +90,16 @@
 
 **Link(s) to work**: Nothing completed today, will post final link tomorrow. 
 
+
+### Day 9: March 1, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Finished up the Technical Guide FCC project today. Also spent a good amount of time going back through CSS principles to refresh everything I missed the first go-around. Was super helpful! Might have to do that more moving forward.
+
+**Thoughts**: Going back through the lessons is tedius, but so incredibly helpful. I started by doing that for a little bit, then coded for about a half-hour, then came back to it. It's kinda great to do a mix of both so I can see how to use the principles while as the same exact time learning them. I think I might have to try that move moving forward, learning something then immmediately putting it to use somehow. Love it!
+
+**Link(s) to work**: [Responsive Web Design: Project #4 - Technical Documentatino Page](https://codepen.io/Smacherman/pen/VwmXBoM)
+
 <br><br><br>
 
 
