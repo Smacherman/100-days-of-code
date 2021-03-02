@@ -3,7 +3,7 @@
 ### Day 0: February 20, 2021
 <!-- ##### (delete me or comment me out) -->
 
-**Today's Progress**: Started with the Basic HTML lessons to get a starting point for code. Finished the first 
+**Today's Progress**: Started with the Basic HTML lessons to get a starting point for code. Finished the first lesson to put my brain starting into learning mode.
 
 **Thoughts:** Just started this whole process and am using FreeCodeCamp's early lessons to get a footing of what I should be doing. I'm pretty new, and don't really understand a whole lot of what is going on. Will try and keep this up every single day, even I feel completely confused and lost. Yay to trying something new!
 
