@@ -110,6 +110,26 @@
 
 **Link(s) to work**: Learning today >> https://scrimba.com/learn/cssgrid/. 
 
+
+### Day 11: March 3, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Working on more Grid techniques learning how to make the grids auto organize each other based on the browser window size. LOVE grid-auto-flow: dense !! Now I know how to get blog posts to look good no matter the length. WIN!
+
+**Thoughts**: Today was a bit realization day that this code can be so much simplier than it seems. Also that I learn WAYYYYY better having someone explain concepts to me vs trying to read through instructions and get an idea that way. Might bite the bullet and start working through the Scrimba Front End Developer career path... seems like it may help give me enough basic knowledge to finally code my own projects. 
+
+**Link(s) to work**: Learning today >> https://scrimba.com/learn/cssgrid/. 
+
+
+### Day 12: March 4, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Finished up the basics of CSS today, and looking forward to heading into Javascript tomorrow. Finally get the whole Flexbox vs Grid concept and the different ways to simplify organizing blocks of content. Also justify vs align. So powerful. #100DaysOfCode
+
+**Thoughts**: Finished up the Scrimba Grids free tutorial and then immediately subscribed to the rest of their courses. I'm not giving up on FCC, but I'm taking a break from it definitely to use Scrimba to gain a basic level understanding of all these concepts. There's a lot more to still learn, but I feel like it's going to be a bit faster to work through the concepts while learning vs trying to cram a lot of ideas then use them at the end. Yes, learning how to code shouldn't be comfortable, but at least I'm getting the concepts wayyyyy better. That's a Win!!
+
+**Link(s) to work**: Learning today >> https://scrimba.com/learn/cssgrid/. 
+
 <br><br><br>
 
 
