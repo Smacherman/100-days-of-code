@@ -130,9 +130,17 @@
 
 **Link(s) to work**: Learning today >> https://scrimba.com/learn/cssgrid/. 
 
+
+### Day 13: March 5, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Went back to the very basics of HTML on Scrimba and started working through the Frontend Developer career path. Also started in the basics of Javascript, and pretty happy with how similar it is to the bit of C++ I've already learned. Variables, Strings, Arrays, Operators... it feels very famliar to Unreal. Events are new tho. Just scratched the surface. 
+
+**Thoughts**: I feel like I have a really good grasp on HTML at this point, and am excited to start putting more proper 'coding' into the pages. Yes, all of this is techincally coding, but the Javascript feels more like proper coding then simple html or CSS. I'm guessing that's what it all feels like once it starts making sense? Excited about where this is going. :) :) 
+
+**Link(s) to work**: Learning today >> https://scrimba.com/playlist/pvdwyhb. 
+
 <br><br><br>
-
-
 
 
 
