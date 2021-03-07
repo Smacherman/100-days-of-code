@@ -140,6 +140,17 @@
 
 **Link(s) to work**: Learning today >> https://scrimba.com/playlist/pvdwyhb. 
 
+
+
+### Day 14: March 6, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: After a taste of Javascript, I was struggling with FCC's way of explaining concepts. Took a step back, subscribed to Scrimba's FED Career path. Awesome refresh of HTML & CSS. Also learned how to link external CSS files. Moving quickly to catch up.
+
+**Thoughts**: Teaching styles really matter. I liked how quickly FCC moved through concepts, but found myself really struggling with some of them because of the way the instructions were worded. Decieded to bite the bullet on Scrimba and am now working through their Front End Developer Career Path. It's great! Only sad part is having to start back over a bit with HTML & CSS. But glad to really get clarification on a lot of the concepts, and I think it's really going to make a difference as I keep moving forward. 
+
+**Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/the-box-model-padding-co43c4969b7189fea6507c4b5. 
+
 <br><br><br>
 
 
