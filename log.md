@@ -151,6 +151,18 @@
 
 **Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/the-box-model-padding-co43c4969b7189fea6507c4b5. 
 
+
+
+
+### Day 15: March 7, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Lots of great refresher content with CSS. Learned background images and how to set relative file paths. Also how important setting a width then left/right margins to auto when trying to center content or divs. SO HAPPY to finally learn why I could never get it to work 
+
+**Thoughts**: Really happy to have a better explaination of CSS with Scrimba. Really was having a hard time understanding what I was doing in FCC especially with centering content. Overall, really happy with how things are moving forward. Stoked to start the projects tomorrow and test how much I actually know. :D
+
+**Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/introduction-caZd7yhp. 
+
 <br><br><br>
 
 
