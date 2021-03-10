@@ -163,6 +163,30 @@
 
 **Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/introduction-caZd7yhp. 
 
+
+### Day 16: March 8, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Worked through Scrimba Module 1: HTML & CSS challenges 1-8. Was able to do 95% of it from memory which is a win! Had to look up max-width tho haha.
+
+**Thoughts**: CSS and HTML are really starting to set in! There is a lot more to learn, but I'm stoked to know that at least the concepts are in my brain, and now I can really start working through them even more. Stoked to also not have had to look up too much stuff via Google. I feel like I've actually learned!! Yay!
+
+**Link(s) to work**: CSS Challenges >> https://codepen.io/Smacherman/pen/JjbmxZb. 
+
+
+
+### Day 17: March 9, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Finished up the HTML & CSS challenges, so back into Javascript! Started logging out to the console and learning the syntax for variables. Changed a few button background color styles and text content. Just the beginning, but very promising!! More to come
+
+**Thoughts**: Glad to be finally properly in Javascript and working through the concepts on Scrimba. It's soooo much easier to learn working through their challenges rather than FCC. Can't wait to jump fully into variables tomorrow. 
+
+**Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/intro-to-variables-cdqQ67Tk. 
+
+
+
+
 <br><br><br>
 
 
