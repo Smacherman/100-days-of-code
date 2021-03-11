@@ -185,7 +185,14 @@
 **Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/intro-to-variables-cdqQ67Tk. 
 
 
+### Day 18: March 10, 2021
+<!-- // ##### (delete me or comment me out) -->
 
+**Today's Progress**: Diving deeper into javascript by learning conditional operators and methods/functions. Built a simple password authenticator using an if/else statement and connected it up to buttons to test input. Didn’t realize it was this simple behind logins! Awesome!! 
+
+**Thoughts**: Learning Javascript is going to be super useful also when writing C++ code in Unreal. Sooo many of the prinicples are shared, so getting practice in either will help the other to get stronger. I'm sure there will be small ways that I get confused when they do finally differ, but super excited about being able to learn both better when learning Javascript. Also kinda mindblown by how easy it is to put together a password authenticator. Can't wait to learn more about datatbases and being able to store passwords / forms. :)
+
+**Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/logic-operators-cNk923tZ. 
 
 <br><br><br>
 
