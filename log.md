@@ -194,8 +194,17 @@
 
 **Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/logic-operators-cNk923tZ. 
 
-<br><br><br>
 
+### Day 19: March 11, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: All about the Loops today! Learned basic Loops as well as using Loops with arrays, nesting If statements in a Loop, and also a tiny bit of methods with classList.add. Finally seeing the light a bit more on how JavaScript can apply CSS.💡
+
+**Thoughts**: Sooo now I'm finally starting to see how Javascript can affect the different ways that CSS is applied within HTML <divs> and other objects. This is just the beginning, but stoked about the progress! Also happy to learn a bit more of the methods that can be applied by addind/editing classes with classList.add to change parts of HTML to have CSS formatting on them. This is great!
+
+**Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/challenge-using-for-loops-we-colour-a-game-board-cQRqw6HP. 
+
+<br><br><br>
 
 
 
