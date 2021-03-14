@@ -204,6 +204,29 @@
 
 **Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/challenge-using-for-loops-we-colour-a-game-board-cQRqw6HP. 
 
+
+
+### Day 20: March 12, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Worked on more Loops today, including putting Loops inside loops! Was able to build a Pac-Man type map using nothing but If statements and loops. So awesome! Didn't realize there was so much you could do with these.
+
+**Thoughts**: So I'm learning a bit more about how I can use different functions and methods inside one another to produce not only clean code but more useful objects that can do some pretty cool things! It's still a bit hard to wrap my head around, but loving the stretching it's making my brain go through when thinking of how things can affect one another from inside something else. 
+
+
+**Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/challenge-loops-and-arrays-c4rrdPuV. 
+
+
+
+### Day 21: March 13, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Started in on Functions today and passing variables into them at runtime. Just got into the basics and excited to get into it more. Used it to build a simple random quote generator
+
+**Thoughts**: Yess!! Functions are the bones of programming it seems. And being able to pass variables into the fuctions at runtime is a major key to making those bones actually do useful things. Lots to still learn here. More crazy brain wrapping. Love the exercise, and starting to see how I need to look at the world in a new way. 
+
+**Link(s) to work**: Today's challenge >> https://scrimba.com/scrim/cod62461f8b8874503f1de0e2. 
+
 <br><br><br>
 
 
