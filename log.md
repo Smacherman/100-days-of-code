@@ -227,6 +227,16 @@
 
 **Link(s) to work**: Today's challenge >> https://scrimba.com/scrim/cod62461f8b8874503f1de0e2. 
 
+
+### Day 22: March 14, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Worked through some easy ways to modify arrays using push/pop and shift/unshift. I’ve seen these words all over code before, sooooo happy to finally understand what they mean!! Got a quick intro to the DOM as well. Will continue that more tomorrow. 
+
+**Thoughts**: It's always such a fun thing when I'm able to finally understand something I've been seeing all over code before, but never actually understanding it. Seriously it's like a whole viel is lifted off my eyes. PUSH AND POP!!! I remember seeing those in C++ and being like WTF??? It's just adding and removing sections of arrays! Super easy!! Can't wait to use them more in later applications! Also the DOM seems a bit vague (Document Object Model) so looking forward to getting more info to understand it tomorrow. 
+
+**Link(s) to work**: Today's challenge >> https://scrimba.com/scrim/co33b4afeb0f6d270aaea82d. 
+
 <br><br><br>
 
 
