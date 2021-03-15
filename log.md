@@ -235,7 +235,17 @@
 
 **Thoughts**: It's always such a fun thing when I'm able to finally understand something I've been seeing all over code before, but never actually understanding it. Seriously it's like a whole viel is lifted off my eyes. PUSH AND POP!!! I remember seeing those in C++ and being like WTF??? It's just adding and removing sections of arrays! Super easy!! Can't wait to use them more in later applications! Also the DOM seems a bit vague (Document Object Model) so looking forward to getting more info to understand it tomorrow. 
 
-**Link(s) to work**: Today's challenge >> https://scrimba.com/scrim/co33b4afeb0f6d270aaea82d. 
+**Link(s) to work**: Today's challenge >> https://scrimba.com/scrim/co33b4afeb0f6d270aaea82d.
+
+
+### Day 23: March 15, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Learned how to getElementById and grabbing multiple elements by using getElementsByClass and getElementsByTag. Going to practice these much more. Also started learning how to use VSCode with GitHub, and finally pushing my daily log up to GH using VSCode.
+
+**Thoughts**:  Didn't really get a ton of learning done on Scrimba bc I took a bit of time to work out how to get GitHub working with VS Code. One of my friends recommended that I start using VS Code much more, because that's what I'll end up using in the real world anyways. Makes total sense to me. I was able to get some learning done starting to understand the getElementById function as well as getElementsByClass and getElementsByTag fuctions as well. Just barely touched on querySelector and querySelectorAll, though don't really understand them a whole lot. I don't think this sections instructor is quite as good as the others at explaining some of these concepts, but will try to get through it nonetheless. 
+
+**Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/selecting-elements-getelementbyid-cN3RkVUZ. 
 
 <br><br><br>
 
