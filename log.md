@@ -243,9 +243,19 @@
 
 **Today's Progress**: Learned how to getElementById and grabbing multiple elements by using getElementsByClass and getElementsByTag. Going to practice these much more. Also started learning how to use VSCode with GitHub, and finally pushing my daily log up to GH using VSCode.
 
-**Thoughts**:  Didn't really get a ton of learning done on Scrimba bc I took a bit of time to work out how to get GitHub working with VS Code. One of my friends recommended that I start using VS Code much more, because that's what I'll end up using in the real world anyways. Makes total sense to me. I was able to get some learning done starting to understand the getElementById function as well as getElementsByClass and getElementsByTag fuctions as well. Just barely touched on querySelector and querySelectorAll, though don't really understand them a whole lot. I don't think this sections instructor is quite as good as the others at explaining some of these concepts, but will try to get through it nonetheless. 
+**Thoughts**:  Didn't really get a ton of learning done on Scrimba bc I took a bit of time to work out how to get GitHub working with VS Code. One of my friends recommended that I start using VS Code much more, because that's what I'll end up using in the real world anyways. Makes total sense to me. I was able to get some learning done starting to understand the getElementById function as well as getElementsByClass and getElementsByTag fuctions as well. Just barely touched  on querySelector and querySelectorAll, though don't really understand them a whole lot. I don't think this sections instructor is quite as good as the others at explaining some of these concepts, but will try to get through it nonetheless. 
 
 **Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/selecting-elements-getelementbyid-cN3RkVUZ. 
+
+
+### Day 24: March 16, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Another big day in Javascript. Stoked to learn how to use querySelector/querySelectorAll to grab the classes and id’s & use .textContent / .style to modify the HTML & CSS. Boom!! Powerful tools there! Defo know I can use those in projects in the future. 
+
+**Thoughts**:  Some major progress today in putting together a few seperate ideas into some powerful methods. Using the .textContent and .style methods, I can finally use Javascript to modify my HTML and CSS code on the fly. Not sure how to get it to stick quite yet, but that's big progress. Also learned to use querySelector and querySelectorAll to grab different classes and ids of elements that I can then modify again using .textContent and .style, or even .value! Love it! Also used classList and className to change classes of objects on the fly! Can't forget about that!
+
+**Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/modifying-styles-classname-and-classlist-c7zLarhv. 
 
 <br><br><br>
 
