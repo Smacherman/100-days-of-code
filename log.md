@@ -267,6 +267,17 @@
 
 **Link(s) to work**: Today's challenge >> https://scrimba.com/scrim/cod304c54ac8350c07520e0c3. 
 
+
+### Day 26: March 18, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Took a break from the Javascript train Steam locomotive to do a brief 
+@Scrimba course on Markdown rec'd by @Whyisbecase. This is used so much on Github, probabaly should learn it. Love how simple it is, but also powerful 4 building quick md pages. Will use this a lot!
+
+**Thoughts**:  Kinda getting the picture that it's important to know a wide range of languages and types of code, rather than just focusing 100% on a single type. These really do build on each other, while also keeping themselves seperate. I'm guessing that when one gets too close to another, then end up merging or one of the two gets deleted. Even in code it's the survival of the fittest. :grimacing:
+
+**Link(s) to work**: Today's challenge - **My Markdown Page** >> https://github.com/Smacherman/100-days-of-code/blob/master/Scrimba-Learning.md. 
+
 <br><br><br>
 
 
