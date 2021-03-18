@@ -257,6 +257,16 @@
 
 **Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/modifying-styles-classname-and-classlist-c7zLarhv. 
 
+
+### Day 25: March 17, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Getting deep in the interactivity! Learned createElement then how to append/prepend. Mix a bit of innerHTML in there (powerful!) then .addEventListener() to start creating triggers that run functions! This is dope! Changed some backgrounds on dblclick. FUN!!
+
+**Thoughts**:  More things are startingt to click into place. It's still fuzzy here and there, but in general I'm starting to get a better handle on how to get elements to become interactive and start working with each other. There's still a LONG way to go before I feel like any of this informaiton is actually properly in my brain, but definitely am stoked about the level of progression so far. It's not just all greek anymore! 
+
+**Link(s) to work**: Today's challenge >> https://scrimba.com/scrim/cod304c54ac8350c07520e0c3. 
+
 <br><br><br>
 
 
