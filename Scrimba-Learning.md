@@ -42,4 +42,4 @@ document.getElementById('textbox_id').value *to get the value of desired box*
 
 
 ---
-##### this page was created as an excercise to learn markdown
+##### this page was created as an excercise to learn markdown. If you want to learn more about my coding journey, check out my [100 Days of Code Log](https://github.com/Smacherman/100-days-of-code/blob/master/log.md)
