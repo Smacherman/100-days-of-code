@@ -6,7 +6,9 @@ I've started learning Javascript on Scrimba, and have found it very helpful in e
 
 > **I think I've beginning to get the concepts fairly well.** *But lots of work to still do.* 
 
-These are some of the things I think Scrimba does very well: 
+---
+
+**These are some of the things I think Scrimba does very well:**
 1. They teach you and then have you practice immediately. 
     - It's not just a video, it's interactive.
 2. They have small challenges that you can then build off of. 
