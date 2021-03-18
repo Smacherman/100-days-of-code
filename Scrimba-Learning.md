@@ -1,5 +1,7 @@
 # Learning Javascript on Scrimba
 
+![Scrimba Logo](https://camo.githubusercontent.com/602667ef67af2c010b11d11789f22f87b54b7f6509adf111e809633795553292/68747470733a2f2f692e706f7374696d672e63632f3032744b425477442f626c75652e706e67)
+
 ### A short blog by Ryan Moore :heart_eyes:
 
 I've started learning Javascript on Scrimba, and have found it very helpful in explaining the different elements that are needed to build an undersatnding of how to build websites using Javascript. What has been fun is realizing that there are lots of similarities between the different coding langauges I already have a bit of familiarity with, which is C++ and C#. A lot of the concepts are the same, which is super nice in the long run. At first I thought they were 100% the same, but now I am learning they are ~~not~~ just close. There are still some differences. 
