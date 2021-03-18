@@ -20,8 +20,9 @@ I've started learning Javascript on Scrimba, and have found it very helpful in e
     - *Some teachers are better than others, but all of them are decent at least.* 
 4. They make learning fun!
 
- - [ ] Do you think Scrimba is for you?
- - [ ] Would you like to learn more?
+ - [x] Do you think Scrimba is for you?
+ - [x] Would you like to learn more?
+ - [ ] Ready to get started?
 
 ---
 
