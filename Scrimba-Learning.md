@@ -10,12 +10,12 @@ I've started learning Javascript on Scrimba, and have found it very helpful in e
 
 **These are some of the things I think Scrimba does very well:**
 1. They teach you and then have you practice immediately. 
-    - It's not just a video, it's interactive.
+    - *It's not just a video, it's interactive.*
 2. They have small challenges that you can then build off of. 
-    - When you learn something, you then have a chance to put it to work immediately. 
-    - You don't have a chance to forget the info before you use it. 
+    - *When you learn something, you then have a chance to put it to work immediately.* 
+    - *You don't have a chance to forget the info before you use it.*
 3. The teachers are really good at explaining each concept in detail. 
-    - Some teachers are better than others, but all of them are decent at least. 
+    - *Some teachers are better than others, but all of them are decent at least.* 
 4. They make learning fun!
 
 
