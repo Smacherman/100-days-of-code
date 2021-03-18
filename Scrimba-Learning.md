@@ -1,6 +1,6 @@
 # Learning Javascript on Scrimba
 
-![Scrimba Logo](https://camo.githubusercontent.com/602667ef67af2c010b11d11789f22f87b54b7f6509adf111e809633795553292/68747470733a2f2f692e706f7374696d672e63632f3032744b425477442f626c75652e706e67)
+[![Scrimba Logo](https://camo.githubusercontent.com/602667ef67af2c010b11d11789f22f87b54b7f6509adf111e809633795553292/68747470733a2f2f692e706f7374696d672e63632f3032744b425477442f626c75652e706e67)](https://scrimba.com/)
 
 ### A short blog by Ryan Moore :heart_eyes:
 
