@@ -18,6 +18,17 @@ I've started learning Javascript on Scrimba, and have found it very helpful in e
     - *Some teachers are better than others, but all of them are decent at least.* 
 4. They make learning fun!
 
+---
+
+
+**Currently one of my favorite types of code is below:**
+
+```
+document.getElementById('textbox_id').value *to get the value of desired box*
+
+**For example,** document.getElementById("searchTxt").value;
+```
+
 
 
 
