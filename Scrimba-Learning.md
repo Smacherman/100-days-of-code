@@ -24,6 +24,8 @@ I've started learning Javascript on Scrimba, and have found it very helpful in e
  - [x] Would you like to learn more?
  - [ ] Ready to get started?
 
+ If so, then head over to https://scrimba.com/ and create an account!
+
 ---
 
 
