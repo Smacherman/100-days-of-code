@@ -278,6 +278,16 @@
 
 **Link(s) to work**: Today's challenge - **My Markdown Page** >> https://github.com/Smacherman/100-days-of-code/blob/master/Scrimba-Learning.md. 
 
+
+### Day 27: March 18, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Putting a lot of things together today. Working through creating a personal Emojis list app that adds and removes my personal Emojis. Using all that good Javascript knowledge. 
+
+**Thoughts**:  Now putting together all of the knowledge while working through building a small app that lists our my personal emojis. I'm doing this challenge with Scrimba, and find that I can figure out about 80% of the nessesary progress on each step of the challenge. I haven't quite figured out how to get it all worked out yet, but feel fairly confident for not know really any of this about 26 days ago. Lots of awesome progress for sure! Need to work on my Googling skills... I can find answers easily enough, but don't have a lot of great luck getting them to work everytime. 
+
+**Link(s) to work**: Today's challenge - **My Personal Emojis App** >> https://github.com/Smacherman/myPersonalEmojis.
+
 <br><br><br>
 
 
