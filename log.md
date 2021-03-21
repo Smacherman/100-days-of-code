@@ -288,6 +288,16 @@
 
 **Link(s) to work**: Today's challenge - **My Personal Emojis App** >> https://github.com/Smacherman/myPersonalEmojis.
 
+
+### Day 28: March 19, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Finished my Personal Emoji project!!! Whooho!! (https://github.com/Smacherman/myPersonalEmojis) To celebrate I started a new project creating a personal online diary/thought-keeper. This one will also use lots of HTML/CSS/Javascript. 
+
+**Thoughts**:  I'm learning more and more that coding and creating projects are really just a very small step by step process. You start with some very basic elements, and then build on them bit by bit. So much of my code from this Personal Emoji's project was all based off of the original push method I built to add Emoji's to the array. Then it was as simple as copy/pasting that code and modifying it for unshift, then copy/pasting a small bit of that code to create both the pop and shift methods. It really was pretty easy once I was able to get the orignal since fuction working. This definitely will be helpful moving forward!
+
+**Link(s) to work**: Today's challenge completed! - **My Personal Emojis App** >> https://github.com/Smacherman/myPersonalEmojis.
+
 <br><br><br>
 
 
