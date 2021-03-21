@@ -279,7 +279,7 @@
 **Link(s) to work**: Today's challenge - **My Markdown Page** >> https://github.com/Smacherman/100-days-of-code/blob/master/Scrimba-Learning.md. 
 
 
-### Day 27: March 18, 2021
+### Day 27: March 19, 2021
 <!-- // ##### (delete me or comment me out) -->
 
 **Today's Progress**: Putting a lot of things together today. Working through creating a personal Emojis list app that adds and removes my personal Emojis. Using all that good Javascript knowledge. 
@@ -289,7 +289,7 @@
 **Link(s) to work**: Today's challenge - **My Personal Emojis App** >> https://github.com/Smacherman/myPersonalEmojis.
 
 
-### Day 28: March 19, 2021
+### Day 28: March 20, 2021
 <!-- // ##### (delete me or comment me out) -->
 
 **Today's Progress**: Finished my Personal Emoji project!!! Whooho!! (https://github.com/Smacherman/myPersonalEmojis) To celebrate I started a new project creating a personal online diary/thought-keeper. This one will also use lots of HTML/CSS/Javascript. 
@@ -298,7 +298,19 @@
 
 **Link(s) to work**: Today's challenge completed! - **My Personal Emojis App** >> https://github.com/Smacherman/myPersonalEmojis.
 
+
+### Day 29: March 21, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Wrapped up the Online Thought Keeper app! Got into a tough spot trying to keep each of the posts from all appearing at once. Finally realized I just needed a forLoop and set the elements to display: none! Smiling face with open mouth and cold sweat Stoked it's done!
+
+**Thoughts**:  Super excited about the progress I've been able to make within the last 29 days. It feels unreal that I've been able to go from not really knowing anything about HTML/CSS/Javacript and now being able to understand a bit of how these websites all fit together as well as how to create my own webApps! Still a HUGE gap of knowledge I need to close, and wouldn't be able to do half of this stuff without Scrimba's guidance. Will keep up the good work, but super stoked on how far I've been able to get so far. 
+
+**Link(s) to work**: Today's challenge completed! - **Online Thought Keeper** >> https://github.com/Smacherman/OnlineThoughtKeeper.
+
 <br><br><br>
+
+
 
 
 <!-- 
