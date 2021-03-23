@@ -308,6 +308,16 @@
 
 **Link(s) to work**: Today's challenge completed! - **Online Thought Keeper** >> https://github.com/Smacherman/OnlineThoughtKeeper.
 
+
+### Day 30: March 22, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Had an awesome time jumping into javascript, but now taking a step back for the next couple of days to really cement CSS in my brain. Got to practice building a page from scratch and then styling links including the :hover, :visited, and :focus attributes.
+
+**Thoughts**:  Loved the time jumping in to Javascript without really knowing anything, but also super thankful to now be going back into CSS to really master some of the concepts. I feel fairly confident about everything, and am having a great time putting to work the concepts that I've been covering. It feels pretty solid! Love filling in the gaps a bit now. Excited to keep pushing forward!!
+
+**Link(s) to work**: Learning today >> https://scrimba.com/scrim/co0a74074be8db4152fd874d4.
+
 <br><br><br>
 
 
