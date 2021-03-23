@@ -318,6 +318,16 @@
 
 **Link(s) to work**: Learning today >> https://scrimba.com/scrim/co0a74074be8db4152fd874d4.
 
+
+### Day 31: March 23, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Another awesome further dive into #CSS with learning specificity (elements vs classes vs IDs) and compound selectors. Also how to make links look like buttons that are easier to see as well as being responsive. So cool!
+
+**Thoughts**:  Love the idea of being able to make links into buttons super easily. Never really thought through how helpful that can be, especially with how much easier they are to see. Loved being able to understand how different CSS elements are ranked vs classes and IDs. And then putting those all togeher in compound selectors to make the code simpler to read. Awesome!
+
+**Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/a-better-way-to-name-our-css-classes-c39epaAB.
+
 <br><br><br>
 
 
