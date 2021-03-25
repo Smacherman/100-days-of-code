@@ -328,6 +328,16 @@
 
 **Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/a-better-way-to-name-our-css-classes-c39epaAB.
 
+
+### Day 32: March 24, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Today was font day!! Learned how to integrate Google Fonts into my HTML and CSS, along with the importance of Font-Weight along with having multiple options in the Font-Families so things look as good as possible across a range of machines. Super important!  
+
+**Thoughts**:  Super interesting to see how many fonts choices there are out there, and how they can really interact well with one another. I guess I didn't realize how easy it was to add different looks and styles of fonts to webpages, but now that I know it I'm seeing it everywhere. Cool!
+
+**Link(s) to work**: Today's challenge - **Recreating CSS Style** >> https://scrimba.com/scrim/co11b41828ea002a9a699ec8f.
+
 <br><br><br>
 
 
