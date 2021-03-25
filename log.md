@@ -338,6 +338,16 @@
 
 **Link(s) to work**: Today's challenge - **Recreating CSS Style** >> https://scrimba.com/scrim/co11b41828ea002a9a699ec8f.
 
+
+### Day 33: March 25, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Took a break from lessons to do a challenge of formatting a page of CSS from scratch. Was great to focus on putting this new knowledge to work and seeing how well I can remember it all. A few hiccups, but stoked about the progress! More challenges tmrw!
+
+**Thoughts**:  These CSS challenges are empowering, but also a reality check in some ways. It seems like it should be so easy to get all of these different elements to work together properly, and then is soooo freaking confusing when one simple thing (like centering text with a fixed width) will suddenly break all of your styling and hard work. Just goes to show me there is still a lot I have to learn before I'm ready to ask for a paycheck from it. Practice makes perfect though, so will just keep at it!
+
+**Link(s) to work**: Today's challenge - **Recreating CSS Style** >> https://scrimba.com/scrim/co70f4029ba1da47e26963c06.
+
 <br><br><br>
 
 
