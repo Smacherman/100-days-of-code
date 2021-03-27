@@ -348,6 +348,16 @@
 
 **Link(s) to work**: Today's challenge - **Recreating CSS Style** >> https://scrimba.com/scrim/co70f4029ba1da47e26963c06.
 
+
+### Day 34: March 26, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: More small CSS challenges today. Building a box grid, formatting a landing page, and creating an e-card invitation. Feeling more confident every day at CSS and being able to make HTML look a bit spicier. Fun! 
+
+**Thoughts**:  More small steps today. Was struggling a bit trying to determine which parameter is supposed to get the styling, but kinda realizing it doesn't matter? All of them can end up getting you where you want to go, you just need to keep a focus as well on how it may end up impacting you later down the road. Super useful stuff! 
+
+**Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/solution-css-challenge-image-collage-c73ba7sW.
+
 <br><br><br>
 
 
