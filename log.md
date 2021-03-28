@@ -358,6 +358,16 @@
 
 **Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/solution-css-challenge-image-collage-c73ba7sW.
 
+
+### Day 35: March 27, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Switched over to a javascript challenge today. Made a Modal button that reveals the secret details of Homer Simpson's address. Took a minute, but got it working!
+
+**Thoughts**: While CSS has been fun, I really think I like working in Javascript more. The ability to connect with any of the elements and change them as needed is awesome, and really allows for some fun interactivity. Looking forward to another challenge tomorrow! 
+
+**Link(s) to work**: Today's challenge - **Quick Modal** >> https://github.com/Smacherman/Quick-Modal .
+
 <br><br><br>
 
 
