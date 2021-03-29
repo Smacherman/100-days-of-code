@@ -366,7 +366,17 @@
 
 **Thoughts**: While CSS has been fun, I really think I like working in Javascript more. The ability to connect with any of the elements and change them as needed is awesome, and really allows for some fun interactivity. Looking forward to another challenge tomorrow! 
 
-**Link(s) to work**: Today's challenge - **Quick Modal** >> https://github.com/Smacherman/Quick-Modal .
+**Link(s) to work**: Today's challenge - **Quick Modal** >> https://github.com/Smacherman/Quick-Modal.
+
+
+### Day 36: March 28, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Another Javascript challenge - this time a search bar to find out what usernames exist! Learned how to use the .includes() function to check if one string is in another. Can see that being useful!
+
+**Thoughts**: Learning a bit more about Javascript every day! Love these challenges. Haven't really been running into too many troubles with the JS except for missing commas and ; here and there. Often times when I can't solve parts of the challenges, it's usually bc I don't understand what the instructions are asking me to do. Will need to keep working on getting that confusion cleared up, because I'm sure my clients are going to have even less clear requests/instructions. 
+
+**Link(s) to work**: Today's challenge - **Username Search** >> https://github.com/Smacherman/Username-Search.
 
 <br><br><br>
 
