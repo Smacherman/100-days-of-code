@@ -378,6 +378,16 @@
 
 **Link(s) to work**: Today's challenge - **Username Search** >> https://github.com/Smacherman/Username-Search.
 
+
+### Day 37: March 29, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Started working on a Carousel of images built from the ground up in HTML, CSS, and JS. Got the basic HTML & CSS in, now just working on getting the buttons functioning in JS. Will finish it tomorrow. 
+
+**Thoughts**: Man... I love Scrimba, but sometimes I really hate how they have the instructors do the step by step instructions of how to go through each challenge. Some are really great at explaining what it is you need to do, and others don't really word things in the a way that are clear on what needs to happen in which over. I guess I should expect that regular life will be the same, but MAN it's annoying. Will need to keep my patience when it happens in real life. 
+
+**Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/build-a-carousel-hiding-non-active-slides-cRJDdVfk.
+
 <br><br><br>
 
 
