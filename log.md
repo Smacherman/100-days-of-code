@@ -388,6 +388,15 @@
 
 **Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/build-a-carousel-hiding-non-active-slides-cRJDdVfk.
 
+
+### Day 38: March 30, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Finished up the Carousel! Got it up on GitHub. Definitely realized again I need to work on thinking through each small step instead of trying to tackle the whole problem at once. In time I'll learn. 😅
+
+**Thoughts**: Super tired today and unmotivated because of other work I'm having to do. But glad that I still showed up even if I not feeling the code or that I really have any business trying to learn this stuff. Somedays are better than others. Today was a struggle for sure. :S
+
+**Link(s) to work**: Today's challenge - **Simple Image Carousel** >> https://github.com/Smacherman/Simple-Image-Carousel.
 <br><br><br>
 
 
