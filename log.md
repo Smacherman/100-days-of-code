@@ -397,6 +397,16 @@
 **Thoughts**: Super tired today and unmotivated because of other work I'm having to do. But glad that I still showed up even if I not feeling the code or that I really have any business trying to learn this stuff. Somedays are better than others. Today was a struggle for sure. :S
 
 **Link(s) to work**: Today's challenge - **Simple Image Carousel** >> https://github.com/Smacherman/Simple-Image-Carousel.
+
+
+### Day 39: March 31, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Started a Dice game challenge with JS. Worked on getting the HTML all worked out while figuring what variables are needed. Feeling more confident in creating the small elements that will later come into play. Stoked on the progress!!
+
+**Thoughts**: Super fucking smallll steps! That's all coding seems to be... super tiny small steps. My friend Greg M. mentioned using Git to take things slow and work through the ideas one by one. Then my other buddy John C. recommended creating a bunch of empty functions and classes to build out the scaffolding of an idea, then going through and filling in each element till you get the whole thing working. Love both ideas! Will definitely use them. (If you ever ready this... thanks guys!! <3 )
+
+**Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/challenge-dice-game-declare-a-winner-cnPZdBC9.
 <br><br><br>
 
 
