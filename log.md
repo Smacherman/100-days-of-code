@@ -407,6 +407,16 @@
 **Thoughts**: Super fucking smallll steps! That's all coding seems to be... super tiny small steps. My friend Greg M. mentioned using Git to take things slow and work through the ideas one by one. Then my other buddy John C. recommended creating a bunch of empty functions and classes to build out the scaffolding of an idea, then going through and filling in each element till you get the whole thing working. Love both ideas! Will definitely use them. (If you ever ready this... thanks guys!! <3 )
 
 **Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/challenge-dice-game-declare-a-winner-cnPZdBC9.
+
+
+### Day 40: April 1, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Stoked to make it to day 40!! Finished up the Dice game by getting all of the Javascript in & working. Struggled a bit resetting the game but finally got all the variables back to their original state. Now on to a Snake clone!!
+
+**Thoughts**: Really got a big confidence boost from this challange, as I had a bit of a grasp on what needed to be done as each step was laid out. Of course I still needed the help of a prompt, but at least I could take a guess and write out the code (mostly correct! :D ) that would be needed each time. Also been using the git commits as a great way to break down everything into small steps. Now using VS Code for just about everything, which is awesome!!  
+
+**Link(s) to work**: Today's challenge - **Dice Game** >> https://github.com/Smacherman/Dice-Game.
 <br><br><br>
 
 
