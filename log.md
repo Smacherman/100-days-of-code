@@ -417,6 +417,16 @@
 **Thoughts**: Really got a big confidence boost from this challange, as I had a bit of a grasp on what needed to be done as each step was laid out. Of course I still needed the help of a prompt, but at least I could take a guess and write out the code (mostly correct! :D ) that would be needed each time. Also been using the git commits as a great way to break down everything into small steps. Now using VS Code for just about everything, which is awesome!!  
 
 **Link(s) to work**: Today's challenge - **Dice Game** >> https://github.com/Smacherman/Dice-Game.
+
+
+### Day 41: April 2, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Continued working on the Snake clone. Get some hung up on how to create the grids (display:flex AND THEN flex-wrap: wrap) as well as setInterval to control the timing. Lots of work to still do. More progress tomorrow. 
+
+**Thoughts**: Today was a challenging day. Felt like just about everything I should be getting was not working. Ended up having to throw in the towel without tons of progress, but at least I put in my hour. Gonna try to unwind from this crazy week... more tomorrow. 
+
+**Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/changing-our-snakes-direction-cvdMD8A6.
 <br><br><br>
 
 
