@@ -427,6 +427,16 @@
 **Thoughts**: Today was a challenging day. Felt like just about everything I should be getting was not working. Ended up having to throw in the towel without tons of progress, but at least I put in my hour. Gonna try to unwind from this crazy week... more tomorrow. 
 
 **Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/changing-our-snakes-direction-cvdMD8A6.
+
+
+### Day 42: April 3, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Great success today! Got the Snake Game fully working and ready to play. Worked through some major challenges when adding/removing classes. Google saved the day. 
+
+**Thoughts**: Had a major challengeing day yesterday, so today was extra happy when being able to finish up the basic functionality even with having issues. Wouldn't have been able to do it without Google and Scrimba. Sooo much I still don't know. Gotta keep learning!   
+
+**Link(s) to work**: Today's challenge - **Snake Game** >> https://smacherman.github.io/Snake-Game/.
 <br><br><br>
 
 
