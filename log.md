@@ -437,6 +437,16 @@
 **Thoughts**: Had a major challengeing day yesterday, so today was extra happy when being able to finish up the basic functionality even with having issues. Wouldn't have been able to do it without Google and Scrimba. Sooo much I still don't know. Gotta keep learning!   
 
 **Link(s) to work**: Today's challenge - **Snake Game** >> https://smacherman.github.io/Snake-Game/.
+
+
+### Day 43: April 3, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Jumping into CSS responsiveness today and will stay here for a bit moving forward. Get to know em vs rem and when is best to use not only a max-width but also a min-width. Gotta keep those paragraphs and images under control!
+
+**Thoughts**: Glad to make the progression to another module in Scrimba, and out of the basic challenges for a bit. Love being able to work on the challenges, but also hungry to learn more and keep the progress going with learning new parts of HTML & CSS. Super excited to get to React, but not there quite yet. 
+
+**Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/setting-the-column-widths-ca3k3qSM.
 <br><br><br>
 
 
