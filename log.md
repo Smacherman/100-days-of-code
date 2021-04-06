@@ -439,7 +439,7 @@
 **Link(s) to work**: Today's challenge - **Snake Game** >> https://smacherman.github.io/Snake-Game/.
 
 
-### Day 43: April 3, 2021
+### Day 43: April 4, 2021
 <!-- // ##### (delete me or comment me out) -->
 
 **Today's Progress**: Jumping into CSS responsiveness today and will stay here for a bit moving forward. Get to know em vs rem and when is best to use not only a max-width but also a min-width. Gotta keep those paragraphs and images under control!
@@ -447,6 +447,16 @@
 **Thoughts**: Glad to make the progression to another module in Scrimba, and out of the basic challenges for a bit. Love being able to work on the challenges, but also hungry to learn more and keep the progress going with learning new parts of HTML & CSS. Super excited to get to React, but not there quite yet. 
 
 **Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/setting-the-column-widths-ca3k3qSM.
+
+
+### Day 44: April 5, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: More responsiveness lessons today. Got deep into media queries and a bit of flexbox while trying to have my page's content show up in the best layout for different devices. Kinda mind-blowing how basic the syntax is, yet powerful the end result can be. :star_struck:
+
+**Thoughts**: I can tell already that I gotta get really good at Flexbox and media queries. They are going to be some of the most useful tools in the arsenol when putting together modern sites. So much of the internet is now accessed via mobile devices, I've got to make sure that I can make sure a website looks as good as possible both ways. 
+
+**Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/adding-the-underline-cPgwm3tg.
 <br><br><br>
 
 
