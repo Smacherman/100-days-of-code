@@ -459,7 +459,7 @@
 **Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/adding-the-underline-cPgwm3tg.
 
 
-### Day 45: April 6 , 2021
+### Day 45: April 6, 2021
 <!-- // ##### (delete me or comment me out) -->
 
 **Today's Progress**: Did a few more exercises getting a navbar to appear beside/below a site title depending on the frame width. Getting some good practice using that max-width 
@@ -468,6 +468,16 @@
 **Thoughts**: Today was a crazy day with my other work so it was a bit hard to focus on really putting things to work properly. But did put in the hour time at the very least, even withtout a ton to show for it. Got to keep this up, otherwise I'll never get to the end.  
 
 **Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/starting-the-css-for-our-page-czNZJahv.
+
+
+### Day 46: April 7, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Practiced a bit with Flexbox and trying to get different columns vs rows when screen sizes get smaller. Stoked how easy this is! Also learning it's better to style for mobile-first, then use @media queries to make it look good wider. Smart!
+
+**Thoughts**: Slow progress today, but proud of getting through it. Not a whole lot to show besides the lesson that mobile first is the way to design, then figure out how to make your pages look good on wider screens. Will be super useful going forward! 
+
+**Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/styling-recent-articles-for-large-screens-cN3G6Nu3.
 <br><br><br>
 
 
