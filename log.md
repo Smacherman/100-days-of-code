@@ -457,6 +457,17 @@
 **Thoughts**: I can tell already that I gotta get really good at Flexbox and media queries. They are going to be some of the most useful tools in the arsenol when putting together modern sites. So much of the internet is now accessed via mobile devices, I've got to make sure that I can make sure a website looks as good as possible both ways. 
 
 **Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/adding-the-underline-cPgwm3tg.
+
+
+### Day 45: April 6 , 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Did a few more exercises getting a navbar to appear beside/below a site title depending on the frame width. Getting some good practice using that max-width 
+@media query! :) More CSS practice is needed!
+
+**Thoughts**: Today was a crazy day with my other work so it was a bit hard to focus on really putting things to work properly. But did put in the hour time at the very least, even withtout a ton to show for it. Got to keep this up, otherwise I'll never get to the end.  
+
+**Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/starting-the-css-for-our-page-czNZJahv.
 <br><br><br>
 
 
