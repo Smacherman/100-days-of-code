@@ -478,6 +478,16 @@
 **Thoughts**: Slow progress today, but proud of getting through it. Not a whole lot to show besides the lesson that mobile first is the way to design, then figure out how to make your pages look good on wider screens. Will be super useful going forward! 
 
 **Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/styling-recent-articles-for-large-screens-cN3G6Nu3.
+
+
+### Day 47: April 8, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Wrapped up the Scrimba module on responsive design. Now on to some challenges starting tomorrow. Getting ready to break out all that Flexbox knowledge from the last couple days. Also gonna practice more pull requests with Greg McKelvey!
+
+**Thoughts**: A tiny bit more progress today. I'm not really matching the exact timing of each of the lessons, but I feel like I am able to learn quite a bit even if it's taking a bit more time than I expected. All is good though! Everyday we're getting closer. :)
+
+**Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/module-wrap-up-cvz7EQU6.
 <br><br><br>
 
 
