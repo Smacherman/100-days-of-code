@@ -488,6 +488,16 @@
 **Thoughts**: A tiny bit more progress today. I'm not really matching the exact timing of each of the lessons, but I feel like I am able to learn quite a bit even if it's taking a bit more time than I expected. All is good though! Everyday we're getting closer. :)
 
 **Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/module-wrap-up-cvz7EQU6.
+
+
+### Day 48: April 9, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Got through some great CSS challenges making pages responsive for both mobile and desktop screens. Lots of display: flex; and flex-flow: row wrap;! Working on learning how to adjust the order of things as well. Super powerful!
+
+**Thoughts**: The display: flex property doesn't really do much without some sort of additional command like flex-direction, flex-wrap, or flex-flow. It's super helpful in getting information to format properly, but only with some major specifics included in the code. Gotta remember this for the future.   
+
+**Link(s) to work**: Today's challenge - **Fix That Navbar** >> https://scrimba.com/learn/frontend/introduction-navbar-cNDV8zAR.
 <br><br><br>
 
 
