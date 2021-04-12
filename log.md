@@ -498,6 +498,16 @@
 **Thoughts**: The display: flex property doesn't really do much without some sort of additional command like flex-direction, flex-wrap, or flex-flow. It's super helpful in getting information to format properly, but only with some major specifics included in the code. Gotta remember this for the future.   
 
 **Link(s) to work**: Today's challenge - **Fix That Navbar** >> https://scrimba.com/learn/frontend/introduction-navbar-cNDV8zAR.
+
+
+### Day 49: April 11, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: More Flex-Flow today! Not using this as much as I should be in challenges. Such a great shorthand to use in media queries. Finishing up the Flexbox challenges tomorrow and then back into some more advanced CSS. 
+
+**Thoughts**: Still not having the Flexbox concepts really sink in like they should be. But at the same time, some of these challenges are not super well explained. Like I can't tell if it's me just not understanding the concepts at large, or not understanding what the challanges are asking me to do. One way or another, still need more practice. Was able to take Saturday off this week to celebrate my dad's 75th birthday. Love ya Dad!! :heart: 
+
+**Link(s) to work**: Today's challenge - **Fix That Navbar** >> https://scrimba.com/learn/frontend/solution-fix-this-grid-cWnGV4HJ.
 <br><br><br>
 
 
