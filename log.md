@@ -508,8 +508,17 @@
 **Thoughts**: Still not having the Flexbox concepts really sink in like they should be. But at the same time, some of these challenges are not super well explained. Like I can't tell if it's me just not understanding the concepts at large, or not understanding what the challanges are asking me to do. One way or another, still need more practice. Was able to take Saturday off this week to celebrate my dad's 75th birthday. Love ya Dad!! :heart: 
 
 **Link(s) to work**: Today's challenge - **Fix That Navbar** >> https://scrimba.com/learn/frontend/solution-fix-this-grid-cWnGV4HJ.
-<br><br><br>
 
+
+### Day 50: April 12, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Stoked to make it to day 50!! It's been an awesome journey every step of the way! Celebrated by finishing some challenges and learning how to adjust line-height and letter-spacing. Looking forward to the next 50 days and all that they'll bring!
+
+**Thoughts**: It's been a bit tougher then I expected, and there have been some hiccups along the way, but I've made it half of my 50 days of code!! YAY! Of course after learning this I've just come to realize that there's so much more I need to learn before I could be of actual use. There are ways I can find work with the skills I have now, but it'll be so beneficial if I keep expanding my ideas while looking for new oppertunities! There's real promise for awesome work on the horizon! Looking forward to it!!! :smile:
+
+**Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/background-images-cZn6k2Cv.
+<br><br><br>
 
 
 
