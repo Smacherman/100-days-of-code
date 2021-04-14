@@ -518,8 +518,20 @@
 **Thoughts**: It's been a bit tougher then I expected, and there have been some hiccups along the way, but I've made it half of my 50 days of code!! YAY! Of course after learning this I've just come to realize that there's so much more I need to learn before I could be of actual use. There are ways I can find work with the skills I have now, but it'll be so beneficial if I keep expanding my ideas while looking for new oppertunities! There's real promise for awesome work on the horizon! Looking forward to it!!! :smile:
 
 **Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/background-images-cZn6k2Cv.
+
+
+### Day 51: April 13, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Background images today in CSS. And all of their fun styles and ways to have them tile and stretch. Looking at other web pages, I can tell these are definitely going to become staple style elements. Working on building a demo BBQ page!
+
+**Thoughts**: Another awesome concept and styling element that is used all over the web: Background Images! And it's so easy to get them added to a page or div. I'm guessing it will be a bit harder to get them to do exactly what I want to them do when I use them, but for now it's great to see how quickly they can go onto a page and suddenly make it look super dope. 
+
+**Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/styling-the-main-content-area-bbq-splash-page-cK2vLpUd.
 <br><br><br>
 
+
+background images
 
 
 <!-- 
