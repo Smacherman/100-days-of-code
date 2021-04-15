@@ -528,6 +528,16 @@
 **Thoughts**: Another awesome concept and styling element that is used all over the web: Background Images! And it's so easy to get them added to a page or div. I'm guessing it will be a bit harder to get them to do exactly what I want to them do when I use them, but for now it's great to see how quickly they can go onto a page and suddenly make it look super dope. 
 
 **Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/styling-the-main-content-area-bbq-splash-page-cK2vLpUd.
+
+
+### Day 52: April 14, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Some more CSS tricks today! Viewport Units, Box-Sizing, and forms. Love how versatile vw is, though I don't completely understand how it's different than using regular % units. Looking forward to diving more into forms tomorrow!
+
+**Thoughts**: Another good day learning some new concepts. Love the idea of viewport units and them being able to really make a difference when I try to make sure my designs fit whatever sized browser they are being viewed on. Don't really understand the Box-sizing by any means, but will be following up with @whyisbecause to see if he can help with the concepts. Feeling good all the way around! Looking forward to a bit of a nature break, and also geting into Python a tiny bit. :satisfied:
+
+**Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/form-basics-form-attributes-czNRPmfD.
 <br><br><br>
 
 
