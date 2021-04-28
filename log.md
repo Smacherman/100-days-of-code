@@ -538,6 +538,16 @@
 **Thoughts**: Another good day learning some new concepts. Love the idea of viewport units and them being able to really make a difference when I try to make sure my designs fit whatever sized browser they are being viewed on. Don't really understand the Box-sizing by any means, but will be following up with @whyisbecause to see if he can help with the concepts. Feeling good all the way around! Looking forward to a bit of a nature break, and also geting into Python a tiny bit. :satisfied:
 
 **Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/form-basics-form-attributes-czNRPmfD.
+
+
+### Day 53: April 27, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Took a short break for some Utah camping, but now back at it with Input Styling, CSS gradients, basic transitions, and transforms! Gotta make all those forms & submit buttons look good! Especially love the transitions!
+
+**Thoughts**: Really enjoyed taking a bit of a break from work and coding lessons to reset my brain and get back into nature for a bit. I think it honestly helped me understand the concepts a bit more, as getting back into the code today I've been able to recall a lot more syntax than I felt confident in before. Really stoked about taking on the next couple lessons and get back into javascript and interactivity! So greatful for the rest time, but now ready to get back into it hard!! 
+
+**Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/making-the-bbq-page-interactive-caZr6zfv.
 <br><br><br>
 
 
