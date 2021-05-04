@@ -548,6 +548,16 @@
 **Thoughts**: Really enjoyed taking a bit of a break from work and coding lessons to reset my brain and get back into nature for a bit. I think it honestly helped me understand the concepts a bit more, as getting back into the code today I've been able to recall a lot more syntax than I felt confident in before. Really stoked about taking on the next couple lessons and get back into javascript and interactivity! So greatful for the rest time, but now ready to get back into it hard!! 
 
 **Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/making-the-bbq-page-interactive-caZr6zfv.
+
+
+### Day 54: May 3, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Jumping into higher-level javascript this week starting with a bit of destructuring objects, learning how to use the spread operator, and .includes() for finding things inside an array. Glad to be back in code this week!
+
+**Thoughts**: This weekend was absolutely insane trying to get my feet back under me after Amber left LA. The Voice shoot along with finishing this immersive venue bid stole most of my late nights last week, so just getting back into the groove. Stoked to be learning more javascript tricks and tips. Overall I think JS is my favorite part of Front End Development at this point, though I know there is still a lot to still learn in this field! There's just something about it that I really click with. :smile:
+
+**Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/let-const-czMQ8U3.
 <br><br><br>
 
 
