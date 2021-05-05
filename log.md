@@ -558,6 +558,16 @@
 **Thoughts**: This weekend was absolutely insane trying to get my feet back under me after Amber left LA. The Voice shoot along with finishing this immersive venue bid stole most of my late nights last week, so just getting back into the groove. Stoked to be learning more javascript tricks and tips. Overall I think JS is my favorite part of Front End Development at this point, though I know there is still a lot to still learn in this field! There's just something about it that I really click with. :smile:
 
 **Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/let-const-czMQ8U3.
+
+
+### Day 55: May 4, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: More new JS tricks! Started to learn the difference between Let & Const, how to Import/Export, being able to use padStart & padEnd, as well as Promises(). Looking forward to starting on some bigger challenges tomorrow!
+
+**Thoughts**: Today's lessons were a bit hard as most of the concepts I could grasp, but I was having trouble with the new syntax. It's really nice having people explain the concepts so I can understand what they are trying to do at each step, but without knowing the new syntax I'm often distracted by what is being written rather than why. I think some of it will make a lot more sense as soon as I can get into the API section, and then understand a bit more about POST and PULL from the Javascript side. 
+
+**Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/sets-in-es6-cKLZQsD.
 <br><br><br>
 
 
