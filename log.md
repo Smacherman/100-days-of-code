@@ -568,6 +568,16 @@
 **Thoughts**: Today's lessons were a bit hard as most of the concepts I could grasp, but I was having trouble with the new syntax. It's really nice having people explain the concepts so I can understand what they are trying to do at each step, but without knowing the new syntax I'm often distracted by what is being written rather than why. I think some of it will make a lot more sense as soon as I can get into the API section, and then understand a bit more about POST and PULL from the Javascript side. 
 
 **Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/sets-in-es6-cKLZQsD.
+
+
+### Day 56: May 5, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Jumping into a quick set of javascript challenges today. Created a factorial from scratch, then put a couple different strings in parenthesis, the lastly found the largest number in an array. Great progress!! 
+
+**Thoughts**: These challenges were really tough, and I didn't really understand some of the steps while trying to solve them. A lot of the methods that were used are ones that I don't know yet, so I've got to take more time to learn them or just keep moving through it and hopefully down the line they make sense. So much of this learning to code journey is accepting that I won't understand something yet trying to move forward. Maybe I should be going a bit slower? I'm  not sure... 
+
+**Link(s) to work**: Today's challenge - **Max Multiple** >> https://scrimba.com/learn/frontend/solution-max-multiple-cWn3Kqtb.
 <br><br><br>
 
 
