@@ -578,6 +578,16 @@
 **Thoughts**: These challenges were really tough, and I didn't really understand some of the steps while trying to solve them. A lot of the methods that were used are ones that I don't know yet, so I've got to take more time to learn them or just keep moving through it and hopefully down the line they make sense. So much of this learning to code journey is accepting that I won't understand something yet trying to move forward. Maybe I should be going a bit slower? I'm  not sure... 
 
 **Link(s) to work**: Today's challenge - **Max Multiple** >> https://scrimba.com/learn/frontend/solution-max-multiple-cWn3Kqtb.
+
+
+### Day 57: May 6, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Started work on a fun Pac Man challenge from Ania Kubow. Love how working through these challenges really helps make the principles make so much more sense. Got about halfway through it. Will finish it up tomorrow.
+
+**Thoughts**: Yesss more game challenges! These are super helpful in just getting the concepts and ideas behind the syntax to make sense and really settle in. Sure, I'm not actually building the whole experience myself, but I am getting a really great understanding of what it takes and how to break it all down step-by-step. Really cherish these type of days where it all seems to make sense and come together. 
+
+**Link(s) to work**: Today's challenge - **Pac Man** >> https://github.com/Smacherman/pacman.
 <br><br><br>
 
 
