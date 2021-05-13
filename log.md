@@ -588,6 +588,16 @@
 **Thoughts**: Yesss more game challenges! These are super helpful in just getting the concepts and ideas behind the syntax to make sense and really settle in. Sure, I'm not actually building the whole experience myself, but I am getting a really great understanding of what it takes and how to break it all down step-by-step. Really cherish these type of days where it all seems to make sense and come together. 
 
 **Link(s) to work**: Today's challenge - **Pac Man** >> https://github.com/Smacherman/pacman.
+
+
+### Day 58: May 12, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Finished up the PacMan game finally. Stoked to be able to share it!
+
+**Thoughts**: The last week has been a bit tough to be able to code consistantly, with all of the film production work I've been doing lately. I started coding because I knew it was going to be a more consistant industry in the long run, and would be a good way for me to keep working in media and challenging myself. I still think all of that is true, though I think the timeframe for me to transition out of edit media might be a bit slower than I previously understood. Not a problem tho, glad to still have all of these skills! They'll come in handy for sure one day. :smile: 
+
+**Link(s) to work**: Today's challenge - **Pac Man** >> https://github.com/Smacherman/pacman.
 <br><br><br>
 
 
