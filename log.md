@@ -598,6 +598,16 @@
 **Thoughts**: The last week has been a bit tough to be able to code consistantly, with all of the film production work I've been doing lately. I started coding because I knew it was going to be a more consistant industry in the long run, and would be a good way for me to keep working in media and challenging myself. I still think all of that is true, though I think the timeframe for me to transition out of edit media might be a bit slower than I previously understood. Not a problem tho, glad to still have all of these skills! They'll come in handy for sure one day. :smile: 
 
 **Link(s) to work**: Today's challenge - **Pac Man** >> https://github.com/Smacherman/pacman.
+
+
+### Day 59: May 13, 2021
+<!-- // ##### (delete me or comment me out) -->
+
+**Today's Progress**: Making the big step to tackling APIs for the first time. GET, POST, PATCH, DELETE... looking forward to understanding all of these so much more! Had a great chat with Greg McKelvey covering the principles. Looking forward to learning more!
+
+**Thoughts**: API's are super useful when I've been using Plex and other TV show and Movie programs, so I know they are super important. Can't wait to learn more about how I can tap into the huge amount of informaiton out there freely available. So cool!
+
+**Link(s) to work**: Learning today >> https://scrimba.com/learn/frontend/requests-caZrQ8AM.
 <br><br><br>
 
 
